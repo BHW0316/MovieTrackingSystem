@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieTrackingSystem", "MovieTrackingSystem.csproj", "{4E19D347-B8F8-4354-96CB-F515BFB20713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTrackingSystemTests", "..\MovieTrackingSystemTests\MovieTrackingSystemTests.csproj", "{13882B20-DE91-4E8B-ACB4-350F1A5ADF6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E19D347-B8F8-4354-96CB-F515BFB20713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E19D347-B8F8-4354-96CB-F515BFB20713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E19D347-B8F8-4354-96CB-F515BFB20713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E19D347-B8F8-4354-96CB-F515BFB20713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13882B20-DE91-4E8B-ACB4-350F1A5ADF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13882B20-DE91-4E8B-ACB4-350F1A5ADF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13882B20-DE91-4E8B-ACB4-350F1A5ADF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13882B20-DE91-4E8B-ACB4-350F1A5ADF6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {865A72D3-5261-48C0-85B6-A177E402EC9D}
+	EndGlobalSection
+EndGlobal
